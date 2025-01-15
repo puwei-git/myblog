@@ -14,7 +14,7 @@ tags:
   - tag1
   - tag2
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 显示Cut out summary from your post content here.
