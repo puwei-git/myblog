@@ -8,7 +8,7 @@ type: nav
 ### 常用搜索引擎
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
-| [GitHub](https://github.com/) | []() | []() | []() | []() |
+| [GitHub](https://github.com/ "GitHub 是一个面向开源及私有软件项目的托管平台") | []() | []() | []() | []() |
 | [B站](https://www.bilibili.com/) | [小红书](https://www.xiaohongshu.com) | []() | []() | []() |
 | [微信文件传输](https://szfilehelper.weixin.qq.com/) | []() | []() | []() | []() |
 | []() | []() | []() | []() | []() |
