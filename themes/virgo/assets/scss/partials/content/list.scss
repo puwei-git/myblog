@@ -1,6 +1,97 @@
 .container-list {
     font-size: 0.16rem;
 
+    .toc {
+        padding-right: 6px;
+        position: fixed;
+        width: 260px;
+        top: 156px;
+        right: 16px;
+        font-size: 0.14rem;
+
+
+        // 条目节点样式
+        li {
+            list-style: none;
+            a {
+                color: $gray-600;
+                &:hover {
+                    color: $link-hover-color;
+                }
+            }
+        }
+
+        .toc-link--active {
+            color: #d14;
+        }
+
+        .page-operation {
+            display: flex;
+            position: fixed;
+            top: 126px;
+            right: 114px;
+            a {
+                cursor: pointer;
+                img,
+                svg {
+                    padding: 2px;
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+        }
+
+        .post-list {
+            padding-left: 8px;
+
+            .wrapper-item {
+                max-height: 386px;
+                overflow-y: scroll;
+                overflow-x: hidden;
+                border-left: 1px solid $gray-300;
+                padding-left: 6px;
+
+                // 滚动条宽度、颜色
+                &::-webkit-scrollbar {
+                    width: 2px;
+                }
+                &::-webkit-scrollbar-thumb {
+                    background-color: $gray-300;
+                }
+            }
+
+            .count {
+                margin: 8px 6px;
+            }
+
+            .item {
+                margin: 0;
+                padding: 0;
+
+                a {
+                    color: $gray-600;
+                }
+            }
+
+            .item-term {
+                margin: 0;
+                padding: 0;
+
+                a {
+                    height: 48px;
+                    color: $gray-600;
+                }
+            }
+        }
+
+        .list {
+            .item,
+            .item-term {
+                margin-bottom: 8px;
+            }
+        }
+    }
+
     .count {
         color: $gray-600;
     }
@@ -28,7 +119,7 @@
 
             .rec-post .rec-post-item {
                 a {
-                    font-size: .14rem;
+                    font-size: 0.14rem;
                     display: inline-block;
                     background: $gray-white-300;
                     margin: 4px;
@@ -36,9 +127,7 @@
                     border-radius: 4px;
                 }
             }
-    
         }
-
 
         .desc .date {
             color: #999;
@@ -50,9 +139,8 @@
         }
 
         .item {
-            box-shadow: 3px 3px 5px #eee;
-			position: relative;
-			padding-bottom: 32px;
+            position: relative;
+            padding-bottom: 32px;
             background: $post-item-bg-color;
 
             margin-right: 32px;
@@ -60,18 +148,15 @@
             width: $item-width;
             overflow: hidden;
 
-            >a {
+            > a {
                 box-sizing: border-box;
                 width: 100%;
                 display: block;
                 background: $gray-white-200;
-
-                margin-bottom: 8px;
                 padding: 6px 4px;
                 white-space: nowrap;
                 overflow: hidden;
                 text-overflow: ellipsis;
-                // border-radius: 0 16px 0 8px;
                 transition: 0.3s padding ease;
 
                 &:hover {
@@ -87,29 +172,41 @@
             }
 
             .summary {
-                font-size: .15rem;
+                font-size: 0.15rem;
                 padding: 8px;
                 color: $gray-600;
+
+                h1,
+                h2,
+                h3,
+                h4,
+                h5,
+                h6 {
+                    font-size: 0.16rem;
+                }
             }
 
-			.read-more {
-                font-size: .13rem;
-				text-align: right;
-				background: $gray-white-200;
-				width: 100%;
-				position: absolute;
-				bottom: 0;
-				a {
-					display: block;
-					padding: 2px 6px;
-					transition: 0.3s padding ease;
-					color: $gray-400;
+            .read-more {
+                font-size: 0.13rem;
+                text-align: right;
+                background: $gray-white-200;
+                width: 100%;
+                position: absolute;
+                bottom: 0;
 
-					&:hover {
-						padding-right: 16px;
-					}
-				}
-			}
+                animation: breath-animate 3s infinite linear;
+
+                a {
+                    display: block;
+                    padding: 2px 6px;
+                    transition: 0.3s padding ease;
+                    color: $gray-400;
+
+                    &:hover {
+                        padding-right: 16px;
+                    }
+                }
+            }
         }
 
         .item-term {
@@ -117,11 +214,9 @@
             width: $item-width;
             a {
                 box-sizing: border-box;
-                height: 80px;
+                height: 86px;
                 display: block;
                 background: $gray-white-300;
-
-                margin-bottom: 8px;
                 padding: 8px;
                 white-space: nowrap;
                 overflow: hidden;
@@ -149,6 +244,10 @@
 
     .list-single-col {
         display: block;
+        width: 776px;
+        margin: 0 auto;
+
+        // border-left: 1px dotted $gray-300;
 
         .recentf {
             width: 760px;
@@ -158,8 +257,35 @@
         }
 
         .item {
-            width: 760px;
+            width: 700px;
             margin: 24px auto;
+            position: relative;
+            overflow: visible;
+
+            .desc {
+                display: none;
+            }
+
+            .c-date {
+                position: absolute;
+                color: $gray-500;
+                top: 6px;
+                // left: -160px;
+                right: 8px;
+                font-size: 0.12rem;
+				// font-family: $font-josefin;
+            }
         }
+
+        .item-term {
+            width: 239px;
+        }
+    }
+
+    // 标签列表
+    .list-taxonomy {
+        display: flex;
+        min-height: 520px;
+        border-left-width: 0;
     }
 }

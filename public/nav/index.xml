@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navs on 落木庭</title>
+    <link>http://localhost:1313/nav/</link>
+    <description>Recent content in Navs on 落木庭</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/nav/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/nav/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nav/nav/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;---&#xA;title: Nav&#xA;aliases: [nav]&#xA;type: nav&#xA;date: 2023-05-26 14:11&#xA;---&#xA;&#xA;&amp;lt;div class=&amp;#34;nav&amp;#34;&amp;gt;&#xA;&#xA;## 🌞 *分类 ONE*&#xA;- [mineitem one](/)&#xA;- [mineitem two](/archive)&#xA;- [mineitem three](https://nav-item-three.com)&#xA; &#xA;## 🔨 *分类 TWO*&#xA;- [toolitem three](https://nav-item-three.com)&#xA;&#xA;## 📑 *分类 THREE*&#xA;- [docitem one](/)&#xA;- [docitem two](/archive)&#xA;- [docitem three](https://nav-item-three.com)&#xA;&#xA;&amp;lt;/div&amp;gt;&#xA;&#xA;## 🔖 *标签 BOOKMARKs*&#xA;&#xA;&amp;lt;div class=&amp;#34;bookmark&amp;#34;&amp;gt;&#xA;&#xA;- bookmark item one https://bookmark-item-one.com&#xA;- bookmark item two https://bookmark-item-two.com&#xA;- bookmark item three https://bookmark-item-three.com&#xA;&#xA;&amp;lt;/div&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

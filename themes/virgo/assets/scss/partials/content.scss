@@ -1,4 +1,5 @@
 #content {
+    position: relative;
     background: $content-bg-color;
     padding: 16px $site-padding-lr 32px;
     // home/list/page/nav/search/archive
@@ -8,6 +9,5 @@
     @import "content/list";
     @import "content/page";
     @import "content/nav";
-    @import "content/search";
     @import "content/archive";
 }

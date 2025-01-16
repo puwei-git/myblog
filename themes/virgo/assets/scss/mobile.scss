@@ -1,37 +1,68 @@
 @media screen and (max-width: 1026px) {
+    @mixin toc {
+        transition: 0.3s all linear;
+        right: -300px;
+        z-index: 1000;
+        background: $white-900;
+        height: 400px;
+        top: 120px;
+        padding-top: 48px;
+        border-radius: 8px;
+
+        .page-operation {
+            z-index: 1001;
+            transition: 0.5s all linear;
+            top: 128px;
+            background: $white-900;
+            border-radius: 24px;
+
+            right: -300px;
+        }
+    }
+
     body {
         $site-padding-lr: 0;
-        img {
-            // max-width: fit-content;
+        .container-floating-box {
+            display: none;
         }
 
         #header {
             padding: 0 8px;
-            // background: $white-900;
-
-            .title {
-                white-space: nowrap;
-                overflow: hidden;
-                &:hover {
-                    overflow: auto;
-                }
-            }
 
             .container-header {
-                .container-breadcrumb-nav {
-                    img { 
-                        max-width: fit-content;
-                    }
+                .left {
+                    display: none;
                 }
 
-                #toc {
-                   position: absolute;
-                   right: 8px;
-                   top: 81px;
-                   display: initial;
-               }
-            }
+                .right {
+                    max-width: 100%;
+                    .title {
+                        white-space: nowrap;
+                        overflow: hidden;
+                        &:hover {
+                            overflow: auto;
+                        }
+                    }
 
+                    #toc {
+                        z-index: 10000;
+                        position: fixed;
+                        right: 0px;
+                        top: 81px;
+                        display: initial;
+                        background: $white-900;
+                        width: 36px;
+                        border-radius: 12px 0 0 12px;
+                        padding-left: 12px;
+                        box-shadow: -1px 1px 1px #ccc;
+                    }
+                }
+            }
+            &.header-home {
+                .container-header .right {
+                    max-width: 100%;
+                }
+            }
         }
 
         #content {
@@ -40,80 +71,27 @@
                 overflow: hidden;
             }
 
-            .container-search {
-                padding: 0 8px;
-                #search {
-                    .sc-icon {
-                        display: none;
-                    }
-
-                    #sc-input {
-                        width: 300px;
-                    }
-
-                    #sc-res {
-                        padding-top: 24px;
-
-                        .statistics {
-                            padding: 0 0 0 8px;
-                        }
-
-                        .list .item {
-                            margin: 12px;
-                            background: $post-item-bg-color;
-
-                            >a {
-                                background: $gray-white-500;
-                            }
-                        }
-
-                        .list-single-col {
-                            display: flex;
-                            .item {
-                                width: 100%;
-                                margin: 6px 0;
-                            }
-                        }
-                    }
-                }
-
-            }
-
             .container-home {
-                .menu {
-                    position: initial;
-                    .item a:hover {
-                        padding: 8px;
-                    }
+                .img-wrapper {
+                    display: none !important;
                 }
-
-                .content {
-                    .desc {
-                        // padding-top: 32px;
-
-                        .words {
-                            width: 90%;
-                            padding: 16px 24px;
-                            margin: 24px 0px 28px 0px;
-                            font-size: .16rem;
-                        }
-                    }
-                }
-
-                .content-md {
-                    padding: 54px 16px;
-                    // columns: 30px 2;
-                }
-                
             }
 
             .container-nav {
                 padding: 0 4px;
 
-                .toc {
-                    display: none;
+                .freq {
+                    justify-content: space-between;
+                    a {
+                        width: 48%;
+
+                        &:nth-child(even) {
+                            margin-right: 0;
+                        }
+                    }
+
                 }
-                
+
                 .content-nav {
                     .nav ul {
                         justify-content: space-between;
@@ -121,10 +99,29 @@
                             width: 50%;
                         }
                     }
+
+                    table {
+                        td {
+                            float: left;
+                            width: 50%;
+
+                            a {
+                                width: 98.6%;
+                            }
+                        }
+                    }
+                }
+
+                .container-miniship {
+                    display: none;
                 }
             }
 
             .container-list {
+                .toc {
+                    @include toc;
+                }
+
                 .count {
                     padding-left: 12px;
                 }
@@ -134,11 +131,12 @@
                         margin: 12px;
                     }
 
-                    .item, .item-term {
+                    .item,
+                    .item-term {
                         margin: 12px;
                         background: $post-item-bg-color;
 
-                        >a {
+                        > a {
                             background: $gray-white-500;
                         }
                     }
@@ -150,9 +148,17 @@
 
                 .list-single-col {
                     display: flex;
+                    width: 100%;
+                    padding: 0;
+                    border-left-width: 0;
 
                     .item {
                         width: 100%;
+                        overflow: hidden;
+
+                        .desc {
+                            display: block;
+                        }
                     }
                 }
             }
@@ -160,29 +166,31 @@
             .container-page {
                 padding: 0 8px 16px;
 
-                .toc {
-                    transition: .3s all linear;
-                    right: -300px;
-                    z-index: 1000;
-                    background: $white-900;
-                    height: 400px;
-                    top: 120px;
-                    padding-top: 48px;
-                    border-radius: 8px;
-
-                    .page-operation {
-                        transition: .5s all linear;
-                        top: 128px;
-                        background: $white-900;
-                        border-radius: 24px;
-
-                        right: -300px;
+                .ship {
+                    #local-search #sc-input, 
+                    #search #ship-input {
+                        // max-width: 80%;
+                        // min-width: 260px;
+                        width: 80%;
                     }
+                }
+
+                .rel {
+                    display: none;
+                }
+
+                .desc {
+                    font-size: 0.13rem;
+                }
+
+                .toc {
+                    @include toc;
                 }
             }
 
             .container-archive {
-                .categories, .tags {
+                .categories,
+                .tags {
                     .arc-item {
                         width: 96%;
                     }
@@ -190,15 +198,38 @@
 
                 padding-bottom: 8px;
             }
+
+            .container-contact {
+                .contact .icons {
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
+            }
         }
 
         #footer {
             padding: 16px 8px;
+            margin-top: 64px;
+
+            .beian {
+                flex-wrap: wrap;
+                justify-content: center;
+
+                height: 48px;
+            }
         }
 
         .oh-essay {
             padding-left: 16px;
             // border-left: 1px dashed $essay-color;
+        }
+
+        // 修复移动端下背景图片没有 cover 的问题
+        &.cool {
+            .cool-before {
+                background-position: center center !important;
+                background-size: cover !important;
+            }
         }
     }
 }

@@ -1,4 +1,8 @@
 .container-archive {
+    .count {
+        padding: 16px 8px;
+    }
+
     .desc {
         font-size: .20rem;
     }
@@ -7,6 +11,11 @@
         display: flex;
         flex-wrap: wrap;
         box-sizing: border-box;
+
+        .desc {
+            font-size: .12rem;
+            padding: 8px;
+        }
 
         .rec-post .rec-post-item {
             a {
@@ -21,17 +30,17 @@
 
     }
 
-    .categories, .tags {
+    .tags {
         display: flex;
         flex-wrap: wrap;
+        box-sizing: border-box;
 
         .arc-item {
             padding: 4px;
             background: $gray-100;
-            margin: 12px 12px 6px 0px;
-            width: 31%;
+            margin: 4px;
+            width: 32.6%;
             box-sizing: border-box;
-            // backdrop-filter: blur(10px);
 
             .arc-desc {
                 padding: 8px 0;
@@ -60,9 +69,5 @@
                 }
             }
         }
-    }
-
-    .tags {
-        margin-top: 32px;
     }
 }
