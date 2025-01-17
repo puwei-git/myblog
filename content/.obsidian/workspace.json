@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki.md",
+                "file": "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wiki"
+              "title": "基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25534ba29a1ec5d4",
@@ -180,11 +179,18 @@
   },
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
+    "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md",
+    "posts/Linux基础操作命令（Ubuntu环境）.md",
+    "posts/Pycharm专业版安装破解教程.md",
+    "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md",
+    "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md.baiduyun.uploading.cfg",
+    "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md.baiduyun.uploading.cfg",
+    "posts/未命名.md.baiduyun.uploading.cfg",
+    "wiki.md",
     "wiki.md.baiduyun.uploading.cfg",
     "nav.md",
-    "wiki.md",
+    "posts/Linux基础操作命令（Ubuntu环境）.md.baiduyun.uploading.cfg",
     "about.md",
-    "posts/Pycharm专业版安装破解教程.md",
     "assets/Pasted image 20250116223344.png",
     "Pycharm专业版安装破解教程.md",
     "about/about.md",
@@ -193,7 +199,6 @@
     "assets/Pasted image 20250116223619.png",
     "assets/Pasted image 20250116223557.png",
     "snippets/frontmatter.md",
-    "posts/未命名.md",
     "nav/index.md",
     "posts/Pycharm专业版安装破解教程/Pycharm专业版安装破解教程.md",
     "posts/Pycharm专业版安装破解教程/imgs",
