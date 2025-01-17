@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25534ba29a1ec5d4",
@@ -179,6 +180,7 @@
   },
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
+    "wiki.md.baiduyun.uploading.cfg",
     "nav.md",
     "wiki.md",
     "about.md",
