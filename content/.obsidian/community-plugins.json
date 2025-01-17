@@ -1,3 +1,8 @@
 [
-  "templater-obsidian"
+  "templater-obsidian",
+  "mousewheel-image-zoom",
+  "obsidian42-brat",
+  "table-editor-obsidian",
+  "obsidian-image-auto-upload-plugin",
+  "oz-clear-unused-images"
 ]

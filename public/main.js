@@ -7781,7 +7781,7 @@
     console.log(
       `---------------------
 		
-	Hello Jack \u{1F60E}, ${year} !
+	Hello puwei \u{1F60E}, ${year} !
 
 		---------------------`
     );

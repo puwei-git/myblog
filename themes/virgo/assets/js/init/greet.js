@@ -2,7 +2,7 @@ export default function greet () {
 	let year = new Date().getFullYear();
 	console.log(
 		`---------------------
-		\n\tHello Jack 😎, ${year} !\n
+		\n\tHello puwei 😎, ${year} !\n
 		---------------------`
 	);
 	document.querySelector('#info-date').innerHTML = year;

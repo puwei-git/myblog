@@ -34,6 +34,8 @@ ignoreFiles = ['\\.obsidian/*']
     isShowRecentPostsOfNav = true
     # 代码块折叠
     hasFoldAllCodeBlocks = true
+    toc = true
+    preserveTOC = true
 
 
     # 激活 cool 模式，酷爽但是消耗资源也更多，
@@ -74,7 +76,7 @@ ignoreFiles = ['\\.obsidian/*']
         #icplink = '//beian.miit.gov.cn'           # 备案链接
         beian = ' '     # 公安备案，如果你不想显示，设置为 '' 空即可
         beiancode = ' '              # 公安备案识别码
-        github_user = 'puwei-git'               # Github 用户名，导航页 github 小组件使用
+        #github_user = 'puwei-git'               # Github 用户名，导航页 github 小组件使用
         # wechat = 'imgs/bg/wechat.jpg'             # 微信二维码地址
         weibo = 'https://weibo.com/u/'
         zhihu = 'https://www.zhihu.com/'
@@ -83,20 +85,20 @@ ignoreFiles = ['\\.obsidian/*']
         github = 'https://github.com/'
         bilibili = 'https://bilibili.com/'
         douyin = 'https://www.douyin.com/'
-        #xiaohongshu = 'https://www.xiaohongshu.com/'
+        xiaohongshu = 'https://www.xiaohongshu.com/'
         # reddit = 'https://www.reddit.com/user/aituyaa'
         #twitter = 'https://twitter.com/aituyaa'
         # mastodon = 'https://mastodon.social/@loveminimal'
         # instagram = 'https://www.instagram.com/loveminimal163'
-        #youtube = 'https://www.youtube.com/@aituyaa'
+        youtube = 'https://www.youtube.com/'
         #telegram = 'https://web.telegram.org/k/#@aituyaa'	# 'https://t.me/aituyaa'
         # discord = 'https://discord.com/channels/@me'
 
         [params.contact.config]
             color = '#696969'                         # 图标颜色，默认为浅灰色
             slogan = ''                               # 联系标语，不想显示，可以置空
-            isShowNavLink = true                      # 是否在联系栏左侧显示快捷导航链接（PS：站点首页总会显示）
-            target = '_self'                          # 定义左侧快捷导航链接打开方式，_blank 在新标签页 _self 在当前标签页
+            isShowNavLink = false                      # 是否在联系栏左侧显示快捷导航链接（PS：站点首页总会显示）
+            target = '_blank'                          # 定义左侧快捷导航链接打开方式，_blank 在新标签页 _self 在当前标签页
             ship = ''                                 # 联系栏 icon ，允许自定义该图标链接（/ship 为外链的个人定制化搜索页）；隐藏，设置为 '' 空即可
 
     # https://utteranc.es/

@@ -3,19 +3,19 @@
 
 name = "Virgo"
 license = "MIT"
-licenselink = "https://github.com/loveminimal/virgo/blob/master/LICENSE"
+#licenselink = "https://github.com/loveminimal/virgo/blob/master/LICENSE"
 description = "Just for fun."
 
-homepage = "https://loveminimal.github.io"
-tags = ["blog", "chinese", 'pure']
+#homepage = "https://loveminimal.github.io"
+#tags = ["blog", "chinese", 'pure']
 features = []
 min_version = "0.41.0"
 
-demosite = "https://loveminimal.github.io"
+#demosite = "https://loveminimal.github.io"
 
 [author]
   name = "Jack Liu"
-  homepage = "https://loveminimal.github.io"
+  #homepage = "https://loveminimal.github.io"
 
 # If porting an existing theme
 [original]
