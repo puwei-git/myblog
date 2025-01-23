@@ -5,7 +5,7 @@ tags:
   - 基础工具
 date:  2025-01-23T23:00:01+08:00
 lastmod: 
-draft: ture
+draft: true
 ---
 
 ### 创建hugo本地博客
