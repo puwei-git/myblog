@@ -1,10 +1,10 @@
 ---
 title: Linux基础操作命令（Ubuntu环境）
-aliases: []
+aliases: 
 tags:
   - Ubuntu
 date: 2024-05-14T16:27:30+08:00
-lastmod: 2025-01-18T21:07:45+08:00
+lastmod: 2025-01-17T21:07:45+08:00
 draft: false
 ---
 

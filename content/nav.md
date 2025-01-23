@@ -38,7 +38,7 @@ type: nav
 | > [ChatGPT](https://chat.openai.com/chat)| > [DeepSeek](https://chat.deepseek.com/) | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) |  [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395) |
 |  [公式识别](https://simpletex.cn/ai/latex_ocr) |[Convertio](https://convertio.co/zh/) |  [igg谷歌访问助手](http://iguge.net/) |[126邮箱](https://mail.126.com/)|[谷歌邮箱](https://mail.google.com/) |
 | > [微信文件传输](https://szfilehelper.weixin.qq.com/)  |[探索者](https://www.cryxr.xyz/#/dashboard) | [SM.MS图床](https://smms.app/home/) | [坚果云](https://www.jianguoyun.com/) |[SakuraFrp内网穿透](https://www.natfrp.com/user/) |
-| [混合盘官网](https://hunhepan.com/) | [猿分天空](https://yftk.fun/) | [胡萝卜周](https://www.huluobuzhou.com/) | [炫猿导航页](https://xydh.fun/puwei) |[Process On](https://www.processon.com/login "在线思维导图")
+| [混合盘官网](https://hunhepan.com/) | [猿分天空](https://yftk.fun/) | [胡萝卜周](https://www.huluobuzhou.com/) | [旧导航页](https://xydh.fun/puwei) |[Process On](https://www.processon.com/login "在线思维导图")
 
 
 
@@ -46,7 +46,7 @@ type: nav
 
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
-|> [黄大年茶思屋](https://www.chaspark.com/)  | [Medium](https://medium.com/) | [Hacker News](https://news.ycombinator.com/) | [CSDN](https://www.csdn.net/) | [知乎](https://www.zhihu.com/) |
+|> [黄大年茶思屋](https://www.chaspark.com/)  | [Medium](https://medium.com/) | [Hacker News](https://news.ycombinator.com/) |> [CSDN](https://www.csdn.net/) | [知乎](https://www.zhihu.com/) |
 | [维基百科](https://en.wikipedia.org/wiki/Main_Page) | [Z-Library](https://zh.z-lib.gs/) | [全国图书馆](http://www.ucdrs.superlib.net/)  | [Library Gene](http://libgen.rs/) | [Project Gutenberg](https://gutenberg.org/) | 
 
 
@@ -62,11 +62,20 @@ type: nav
 
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
-| [淘宝](https://www.taobao.com/) | [网易云](https://music.163.com/) | [抖音](https://www.douyin.com/) | [咪咕视频](https://www.miguvideo.com/p/channel/) | [芒果tv](https://www.mgtv.com/) |
-| [腾讯视频](https://v.qq.com/) | [爱奇艺](https://www.iqiyi.com/) | [拼多多](https://www.pinduoduo.com/) | [米游社](https://www.miyoushe.com/) | [YouTube](https://www.youtube.com/) |
-| [Twitter / X](https://twitter.com/home) | [米哈游云游戏](https://mhyy.mihoyo.com/) | [壁纸](https://wall.alphacoders.com/?lang=Chinese) | [稀饭动漫](https://dick.xfani.com/) | [pgame游戏下载](https://www.pgame.vip/) |
-| [三国杀](https://web.sanguosha.com/220/h5_2/index_210000.php) | [pixiv](https://www.pixiv.net/) | [pixivic](https://pixivic.com/?VNK=a7b72159) | [俄国破解游戏](https://byruthub.org/) | [小红书](https://www.xiaohongshu.com) |
-| []() | []() | []() | []() | []() |
+| [淘宝](https://www.taobao.com/) | [拼多多](https://www.pinduoduo.com/) |
+| [米游社](https://www.miyoushe.com/) | [米哈游云游戏](https://mhyy.mihoyo.com/) |  [三国杀](https://web.sanguosha.com/220/h5_2/index_210000.php) |[俄国破解游戏](https://byruthub.org/)  | [pgame游戏下载](https://www.pgame.vip/) |
+
+### 视频&动漫&音乐
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+|  [抖音](https://www.douyin.com/) |  [咪咕视频](https://www.miguvideo.com/p/channel/)| [芒果tv](https://www.mgtv.com/) | [YouTube](https://www.youtube.com/) | [腾讯视频](https://v.qq.com/)|
+|   [爱奇艺](https://www.iqiyi.com/)   |  [小红书](https://www.xiaohongshu.com)    |  [Twitter / X](https://twitter.com/home)    |    [稀饭动漫](https://dick.xfani.com/)    | [网易云](https://music.163.com/) |
+
+
+### 壁纸
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+|  [WALLPAPER ABYSS](https://wall.alphacoders.com/?lang=Chinese) |  [pixiv](https://www.pixiv.net/) | [pixivic](https://pixivic.com/?VNK=a7b72159)|
 
 ### 标签 BOOKMARKs
 

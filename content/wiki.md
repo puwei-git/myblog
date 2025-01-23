@@ -1,5 +1,5 @@
 ---
-title: 杂货铺
+title: 一箩筐
 aliases: [wiki]
 type: wiki
 date: 2025-01-01

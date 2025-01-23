@@ -74,16 +74,23 @@ $headline-bg-color: $white-000;
 $contact-bg-color: $white-000;
 $img-border-color: $white-000;
 
-$link-color: #5d2f86;
-$link-hover-color: #e69;
-$table-color: #e9e7ef;
+$link-color: #5D4037;
+//$link-color: #5d2f86;
+$link-hover-color: #FF9800; 
+//$link-hover-color: #e69;
+$table-color: #000000;
+//$table-color: #e9e7ef;
 $highlight-color: #e9e7ef;
-$blockquote-color: $gray-600;
-$essay-color: #969696;
-$code-inline-color: #d63384;
+$blockquote-color: $gray-800;
+//$blockquote-color: $gray-600;
+$essay-color: #333333;
+//$essay-color: #969696;
+$code-inline-color: #D9534F;
+//$code-inline-color: #d63384;
 
 $site-padding-lr: 80px;
-$post-item-bg-color: $gray-white-200;
+$post-item-bg-color: $gray-white-000;
+//$post-item-bg-color: $gray-white-200;
 
 @mixin primary {
     background: #cfe2ff;
