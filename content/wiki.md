@@ -27,3 +27,35 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
 总是显示**无法读取站点地图**，没有找到解决办法。
 
 伤心，没成功，不过也无所谓吧，本身就是当作一个在线笔记本使用，成功了应该也没有谁会看吧。。。
+
+### Pytorch 问题笔记
+#### pytorch中的一维数组
+在显示形式上面是行向量，但在具体代码计算中默认为列向量。
+
+
+### WSL2 问题笔记
+进入你的环境：
+
+```
+conda activate env_name
+```
+
+安装jupyter notebook：
+
+```
+conda install jupyter notebook -y -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/
+```
+启动：
+
+```
+jupyter notebook
+```
+点击出现的链接即可在windows电脑浏览器中打开jupyter notebook。
+
+```
+...(省略前面的输出)
+http://localhost:8888/tree?token=1a304da508188ca2b6892a43cad0255e2499b952eee8e162
+http://127.0.0.1:8888/tree?token=1a304da508188ca2b6892a43cad0255e2499b952eee8e162
+```
+
+![image.png](https://s2.loli.net/2025/01/24/UHkzQDxIwWBZ5vb.png)
