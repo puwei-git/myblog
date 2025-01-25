@@ -33,12 +33,13 @@ type: nav
 
 ### 工具
 
-|       |       |       |       |       |
-|-------|-------|-------|-------|-------|
-| > [ChatGPT](https://chat.openai.com/chat)| > [DeepSeek](https://chat.deepseek.com/) | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) |  [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395) |
-|  [公式识别](https://simpletex.cn/ai/latex_ocr) |[Convertio](https://convertio.co/zh/) |  [igg谷歌访问助手](http://iguge.net/) |[126邮箱](https://mail.126.com/)|[谷歌邮箱](https://mail.google.com/) |
-| > [微信文件传输](https://szfilehelper.weixin.qq.com/)  |[探索者](https://www.cryxr.xyz/#/dashboard) | [SM.MS图床](https://smms.app/home/) | [坚果云](https://www.jianguoyun.com/) |[SakuraFrp内网穿透](https://www.natfrp.com/user/) |
-| [混合盘官网](https://hunhepan.com/) | [猿分天空](https://yftk.fun/) | [胡萝卜周](https://www.huluobuzhou.com/) | [旧导航页](https://xydh.fun/puwei) |[Process On](https://www.processon.com/login "在线思维导图")
+|                                                       |                                             |                                                                 |                                       |                                                              |
+| ----------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| > [ChatGPT](https://chat.openai.com/chat)             | > [DeepSeek](https://chat.deepseek.com/)    | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395)                            |
+| [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)       | [igg谷歌访问助手](http://iguge.net/)                            | [126邮箱](https://mail.126.com/)      | [谷歌邮箱](https://mail.google.com/)                         |
+| > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard) | [SM.MS图床](https://smms.app/home/)                             | [坚果云](https://www.jianguoyun.com/) | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
+| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)               | [胡萝卜周](https://www.huluobuzhou.com/)                        | [旧导航页](https://xydh.fun/puwei)    | [Process On](https://www.processon.com/login "在线思维导图") |
+| [测速网](https://myplugin.speedtest.cn/ "测网速")     |                                             |                                                                 |                                       |                                                              |
 
 
 
