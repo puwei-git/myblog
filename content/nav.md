@@ -67,10 +67,11 @@ type: nav
 | [米游社](https://www.miyoushe.com/) | [米哈游云游戏](https://mhyy.mihoyo.com/) |  [三国杀](https://web.sanguosha.com/220/h5_2/index_210000.php) |[俄国破解游戏](https://byruthub.org/)  | [pgame游戏下载](https://www.pgame.vip/) |
 
 ### 视频&动漫&音乐
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-|  [抖音](https://www.douyin.com/) |  [咪咕视频](https://www.miguvideo.com/p/channel/)| [芒果tv](https://www.mgtv.com/) | [YouTube](https://www.youtube.com/) | [腾讯视频](https://v.qq.com/)|
-|   [爱奇艺](https://www.iqiyi.com/)   |  [小红书](https://www.xiaohongshu.com)    |  [Twitter / X](https://twitter.com/home)    |    [稀饭动漫](https://dick.xfani.com/)    | [网易云](https://music.163.com/) |
+|                                  |                                                  |                                         |                                     |                                  |
+| -------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------- | -------------------------------- |
+| [抖音](https://www.douyin.com/)  | [咪咕视频](https://www.miguvideo.com/p/channel/) | [芒果tv](https://www.mgtv.com/)         | [YouTube](https://www.youtube.com/) | [腾讯视频](https://v.qq.com/)    |
+| [爱奇艺](https://www.iqiyi.com/) | [小红书](https://www.xiaohongshu.com)            | [Twitter / X](https://twitter.com/home) | [稀饭动漫](https://dick.xfani.com/) | [网易云](https://music.163.com/) |
+| [MP4电影](https://www.sump4.cc/) |                                                  |                                         |                                     |                                  |
 
 
 ### 壁纸
