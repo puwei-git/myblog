@@ -8,10 +8,22 @@ lastmod:
 draft: true
 ---
 
+### hugo安装
+#### 下载
+安装地址：[https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases)
+
+建议安装extended版本 有些主题需要在该版本下运行：[hugo_extended_0.140.2_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.140.2/hugo_extended_0.140.2_windows-amd64.zip)
+
+#### 配置环境
+创建一个名为Hugo的文件夹，其下新建bin文件夹，将解压的hugo.exe文件放入bin目录下。
+
+在系统变量Path中添加hugo.exe的目录，如：`C:\software\Hugo\bin`
+
 ### 创建hugo本地博客
 打开终端
 ```
 cd D:\Documents\BaiduSyncdisk\Github
+# cd C:\Users\puwei\Documents\My_files\BaiduSyncdisk\Github\blog 
 hugo new site blog
 cd blog
 git init

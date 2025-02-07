@@ -64,7 +64,8 @@ ignoreFiles = ['\\.obsidian/*']
         # 新增支持设置背景色，
         # 将 background 设置为 ''，默认为 `#000`
         # ！ 为保证显示效果，建议选用 1：1 比例图片
-        src = 'flower.svg'
+        src = 'sunny.jpg'
+        # src = 'flower.svg'
         # src = 'manyi1.jpg'
         background = '#fff'
         # 为该图片附加一个点击链接功能，缺省为 `/about`，当然

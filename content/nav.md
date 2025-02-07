@@ -38,8 +38,8 @@ type: nav
 | > [ChatGPT](https://chat.openai.com/chat)             | > [DeepSeek](https://chat.deepseek.com/)    | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395)                            |
 | [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)       | [igg谷歌访问助手](http://iguge.net/)                            | [126邮箱](https://mail.126.com/)      | [谷歌邮箱](https://mail.google.com/)                         |
 | > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard) | [SM.MS图床](https://smms.app/home/)                             | [坚果云](https://www.jianguoyun.com/) | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
-| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)               | [胡萝卜周](https://www.huluobuzhou.com/)                        | [旧导航页](https://xydh.fun/puwei)    | [Process On](https://www.processon.com/login "在线思维导图") |
-| [测速网](https://myplugin.speedtest.cn/ "测网速")     |                                             |                                                                 |                                       |                                                              |
+| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)               | [胡萝卜周](https://www.huluobuzhou.com/)                        | >[导航页](https://xydh.fun/puwei)    | [Process On](https://www.processon.com/login "在线思维导图") |
+| [测速网](https://myplugin.speedtest.cn/)     |                                             |                                                                 |                                       |                                                              |
 
 
 
@@ -71,7 +71,7 @@ type: nav
 | -------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------- | -------------------------------- |
 | [抖音](https://www.douyin.com/)  | [咪咕视频](https://www.miguvideo.com/p/channel/) | [芒果tv](https://www.mgtv.com/)         | [YouTube](https://www.youtube.com/) | [腾讯视频](https://v.qq.com/)    |
 | [爱奇艺](https://www.iqiyi.com/) | [小红书](https://www.xiaohongshu.com)            | [Twitter / X](https://twitter.com/home) | [稀饭动漫](https://dick.xfani.com/) | [网易云](https://music.163.com/) |
-| [MP4电影](https://www.sump4.cc/) |                                                  |                                         |                                     |                                  |
+| [MP4电影](https://www.sump4.cc/ "MP4电影下载，磁链") |                                                  |                                         |                                     |                                  |
 
 
 ### 壁纸
