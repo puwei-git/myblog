@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/hugo常用命令.md",
+                "file": "nav.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hugo常用命令"
+              "title": "nav"
             }
           },
           {
@@ -195,17 +195,16 @@
   },
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
-    "nav.md",
-    "nav.md.baiduyun.p.downloading",
-    "posts/养生.md.baiduyun.uploading.cfg",
-    "nav.md.baiduyun.uploading.cfg",
     "posts/养生.md",
+    "nav.md",
+    "posts/养生.md.baiduyun.uploading.cfg",
     "posts/hugo常用命令.md",
     "posts/Linux基础操作命令（Ubuntu环境）.md",
     "posts/markdown基本语法.md",
     "about.md",
     "about.md.baiduyun.p.downloading",
     "about.md.baiduyun.uploading.cfg",
+    "nav.md.baiduyun.uploading.cfg",
     "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md",
     "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md",
     "posts/conda & pip 常用命令.md",
@@ -223,6 +222,7 @@
     "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md.baiduyun.uploading.cfg",
     "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md.baiduyun.uploading.cfg",
     "posts/Pycharm专业版安装破解教程.md.baiduyun.uploading.cfg",
+    "posts/未命名.md.baiduyun.uploading.cfg",
     "assets/Pasted image 20250116223344.png",
     "Pycharm专业版安装破解教程.md",
     "about/about.md",
