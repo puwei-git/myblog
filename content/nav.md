@@ -4,14 +4,6 @@ aliases: [nav]
 type: nav
 ---
 
-### GUET
-
-|       |       |       |       |       |
-|-------|-------|-------|-------|-------|
-| [桂电图书馆](https://www.guet.edu.cn/lib/) | [桂电VPN](https://v.guet.edu.cn/) | [桂电智慧校园](https://iw.guet.edu.cn/) | [桂电研究生院](https://www.guet.edu.cn/gra/_t14/) | [桂电研究生管理系统](https://yjsjy.guet.edu.cn/(S(hyaus1mtmttirosr2pyiqmdc))/home/stulogin) |
-| [桂电学校综合服务大厅](https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex) | [立创商城](https://www.szlcsc.com/) | [学习强国](https://www.xuexi.cn/) | [智慧团建](https://zhtj.youth.cn/zhtj/) | [注销页](http://10.0.1.5/) |
-
-
 ### BUPT
 
 |                                                    |                                             |                                          |                                       |                                                                                               |
@@ -52,6 +44,12 @@ type: nav
 | [维基百科](https://en.wikipedia.org/wiki/Main_Page) | [Z-Library](https://zh.z-lib.gs/) | [全国图书馆](http://www.ucdrs.superlib.net/) | [Library Gene](http://libgen.rs/) | [Project Gutenberg](https://gutenberg.org/) |
 | [NGA](https://ngabbs.com/)                                                    |   [ChinaSys开源平台](https://chinasys.org/opensource/index.html)                                |                                              |                                   |                                             |
 
+### GUET
+
+|       |       |       |       |       |
+|-------|-------|-------|-------|-------|
+| [桂电图书馆](https://www.guet.edu.cn/lib/) | [桂电VPN](https://v.guet.edu.cn/) | [桂电智慧校园](https://iw.guet.edu.cn/) | [桂电研究生院](https://www.guet.edu.cn/gra/_t14/) | [桂电研究生管理系统](https://yjsjy.guet.edu.cn/(S(hyaus1mtmttirosr2pyiqmdc))/home/stulogin) |
+| [桂电学校综合服务大厅](https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex) | [立创商城](https://www.szlcsc.com/) | [学习强国](https://www.xuexi.cn/) | [智慧团建](https://zhtj.youth.cn/zhtj/) | [注销页](http://10.0.1.5/) |
 
 
 ### 学习备考

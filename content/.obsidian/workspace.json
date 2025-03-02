@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/hugo常用命令.md",
+                "file": "nav.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hugo常用命令"
+              "title": "nav"
             }
           },
           {
@@ -194,9 +194,9 @@
   },
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
+    "posts/hugo常用命令.md",
     "nav.md",
     "nav.md.baiduyun.uploading.cfg",
-    "posts/hugo常用命令.md",
     "nav.md.baiduyun.p.downloading",
     "posts/养生.md.baiduyun.uploading.cfg",
     "posts/养生.md",
