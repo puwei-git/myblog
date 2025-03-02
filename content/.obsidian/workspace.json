@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25534ba29a1ec5d4",
@@ -196,11 +195,11 @@
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
     "nav.md",
+    "nav.md.baiduyun.uploading.cfg",
+    "posts/hugo常用命令.md",
     "nav.md.baiduyun.p.downloading",
     "posts/养生.md.baiduyun.uploading.cfg",
-    "nav.md.baiduyun.uploading.cfg",
     "posts/养生.md",
-    "posts/hugo常用命令.md",
     "posts/Linux基础操作命令（Ubuntu环境）.md",
     "posts/markdown基本语法.md",
     "about.md",

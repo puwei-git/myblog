@@ -33,13 +33,14 @@ type: nav
 
 ### 工具
 
-|                                                       |                                             |                                                                 |                                       |                                                              |
-| ----------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| > [ChatGPT](https://chat.openai.com/chat)             | > [DeepSeek](https://chat.deepseek.com/)    | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395)                            |
-| [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)       | [igg谷歌访问助手](http://iguge.net/)                            | [126邮箱](https://mail.126.com/)      | [谷歌邮箱](https://mail.google.com/)                         |
-| > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard) | [SM.MS图床](https://smms.app/home/)                             | [坚果云](https://www.jianguoyun.com/) | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
-| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)               | [胡萝卜周](https://www.huluobuzhou.com/)                        | >[导航页](https://xydh.fun/puwei)    | [Process On](https://www.processon.com/login "在线思维导图") |
-| [测速网](https://myplugin.speedtest.cn/)     |  >[滴答清单](https://dida365.com/webapp/#c/all/calendar/m)                                           |                                                                 |                                       |                                                              |
+|                                                       |                                                           |                                                                 |                                       |                                                              |
+| ----------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| > [ChatGPT](https://chat.openai.com/chat)             | > [DeepSeek](https://www.deepseek.com/)                   | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395)                            |
+| [硅基流动](https://cloud.siliconflow.cn/models)       | [火山引擎](https://www.volcengine.com/)                   | [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)         |                                       |                                                              |
+| [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)                     | [igg谷歌访问助手](http://iguge.net/)                            | [126邮箱](https://mail.126.com/)      | [谷歌邮箱](https://mail.google.com/)                         |
+| > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard)               | [SM.MS图床](https://smms.app/home/)                             | [坚果云](https://www.jianguoyun.com/) | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
+| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)                             | [胡萝卜周](https://www.huluobuzhou.com/)                        | [导航页](https://xydh.fun/puwei)     | [Process On](https://www.processon.com/login "在线思维导图") |
+| [测速网](https://myplugin.speedtest.cn/)              | >[滴答清单](https://dida365.com/webapp/#c/all/calendar/m) | [2fa](https://2fa.live/)                                        |   [AutoDL算力云](https://www.autodl.com/)                                    |                                                              |
 
 
 
@@ -47,7 +48,7 @@ type: nav
 
 |                                                     |                                   |                                              |                                   |                                             |
 | --------------------------------------------------- | --------------------------------- | -------------------------------------------- | --------------------------------- | ------------------------------------------- |
-| > [黄大年茶思屋](https://www.chaspark.com/)         | [Medium](https://medium.com/)     | [Hacker News](https://news.ycombinator.com/) | > [CSDN](https://www.csdn.net/)   | [知乎](https://www.zhihu.com/)              |
+| > [黄大年茶思屋](https://www.chaspark.com/)         | [Medium](https://medium.com/)     | [Hacker News](https://news.ycombinator.com/) | [CSDN](https://www.csdn.net/)   | [知乎](https://www.zhihu.com/)              |
 | [维基百科](https://en.wikipedia.org/wiki/Main_Page) | [Z-Library](https://zh.z-lib.gs/) | [全国图书馆](http://www.ucdrs.superlib.net/) | [Library Gene](http://libgen.rs/) | [Project Gutenberg](https://gutenberg.org/) |
 | [NGA](https://ngabbs.com/)                                                    |   [ChinaSys开源平台](https://chinasys.org/opensource/index.html)                                |                                              |                                   |                                             |
 
