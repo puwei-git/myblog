@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/每日早餐.md",
-                "mode": "preview",
+                "file": "nav.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "每日早餐"
+              "title": "nav"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25534ba29a1ec5d4",
@@ -194,6 +195,8 @@
   },
   "active": "a9f37dade9b694c6",
   "lastOpenFiles": [
+    "nav.md.baiduyun.uploading.cfg",
+    "posts/每日早餐.md",
     "posts/蔬果可食.md",
     "posts/生活饮食.md",
     "posts/每日午餐.md",
@@ -205,12 +208,10 @@
     "posts/每日晚餐.md.baiduyun.p.downloading",
     "posts/每日早餐.md.baiduyun.p.downloading",
     "posts/每日午餐.md.baiduyun.p.downloading",
-    "posts/每日早餐.md",
     "posts/养生.md",
     "posts/生活饮食.md.baiduyun.uploading.cfg",
     "posts/每日茶饮.md.baiduyun.uploading.cfg",
     "nav.md",
-    "nav.md.baiduyun.uploading.cfg",
     "posts/hugo常用命令.md",
     "nav.md.baiduyun.p.downloading",
     "posts/Linux基础操作命令（Ubuntu环境）.md",
