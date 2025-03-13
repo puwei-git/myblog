@@ -20,29 +20,38 @@ type: nav
 | > [Overleaf](https://www.overleaf.com/project)                        | > [arXiv](https://arxiv.org/)                                                        | > [IEEE Xplore](https://ieeexplore.ieee.org)      | [知网](https://www.cnki.net/)           | [Web of Science](https://www.webofscience.com/) |
 | [Connected Papers](https://www.connectedpapers.com/	)                 | [谷歌学术](https://scholar.google.com/schhp?hl=zh-CN)                                    | [思谋学术](https://ac.scmor.com/)                     | [大木虫学术](http://4243.net/)             | [科塔学术](https://site.sciping.com/)               |
 | [Wiley](https://onlinelibrary.wiley.com)                              | [Springer](https://link.springer.com/)                                               | [CFP](https://www.easychair.org/cfp/)             | [TechRxiv](https://www.techrxiv.org/) | [ResearchGate](https://www.researchgate.net/)   |
-| [爱文献](https://ijournal.topeditsci.com/)                               | [IEEE模板](https://template-selector.ieee.org/secure/templateSelector/publicationType) | [Research Rabbit](https://researchrabbitapp.com/) |                                       |                                                 |
-| [中国专利检索](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch) | [国家知识产权局](http://epub.cnipa.gov.cn/Index)                                            | [国自然检索](https://kd.nsfc.cn/finalProjectInit)      |                                       |                                                 |
+| [爱文献](https://ijournal.topeditsci.com/)                               | [IEEE模板](https://template-selector.ieee.org/secure/templateSelector/publicationType) | [Research Rabbit](https://researchrabbitapp.com/) |                     [Paper With Code](https://paperswithcode.com/)                   |                                                 |
+| [中国专利检索](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch) | [国家知识产权局](http://epub.cnipa.gov.cn/Index)                                            | [国自然检索](https://kd.nsfc.cn/finalProjectInit)      |                                      |                                                 |
+| > [黄大年茶思屋](https://www.chaspark.com/)         | [Medium](https://medium.com/)     | [Hacker News](https://news.ycombinator.com/) | [CSDN](https://www.csdn.net/)   | >[知乎](https://www.zhihu.com/)              |
+
+
+### AI
+|                                                 |                                                |                                                                 |                                                                                                                                                                                                                                                           |                                   |
+| ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| > [ChatGPT](https://chat.openai.com/chat)       | > [DeepSeek](https://www.deepseek.com/)        | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new)                                                                                                                                                                                                                     | [Chat8](https://chat86.co/524395) |
+| [硅基流动](https://cloud.siliconflow.cn/models) | [火山引擎](https://www.volcengine.com/)        | [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)         | [阿里云百炼](https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fbailian.console.aliyun.com%2F%3Fspm%3Da2c4g.11186623.0.0.77b179800zVrkt%26accounttraceid%3D55a4b7f2d9a644898e2b67c3a8312f39vggz&clearRedirectCookie=1&lang=zh#/home) | [ollama](https://ollama.com/)     |
+| [AutoDL算力云](https://www.autodl.com/)         | [DeepSeek技术社区](https://deepseek.csdn.net/) | [API开放平台](https://open.askmany.chat/)                       | [AskManyAI](https://askmany.cn/)                                                                                                                                                                                                                          |              [小羿](https://xiaoyi.vc/)                     |
+
+
 
 ### 工具
 
-|                                                       |                                                           |                                                                 |                                       |                                                              |
-| ----------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| > [ChatGPT](https://chat.openai.com/chat)             | > [DeepSeek](https://www.deepseek.com/)                   | [Gemini](https://gemini.google.com/app?utm_source=app_launcher) | [bing chat](https://www.bing.com/new) | [Chat8](https://chat86.co/524395)                            |
-| [硅基流动](https://cloud.siliconflow.cn/models)       | [火山引擎](https://www.volcengine.com/)                   | [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)         |        [阿里云百炼](https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fbailian.console.aliyun.com%2F%3Fspm%3Da2c4g.11186623.0.0.77b179800zVrkt%26accounttraceid%3D55a4b7f2d9a644898e2b67c3a8312f39vggz&clearRedirectCookie=1&lang=zh#/home)                               |   [ollama](https://ollama.com/)                                                           |
-| [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)                     | [igg谷歌访问助手](http://iguge.net/)                            | [126邮箱](https://mail.126.com/)      | [谷歌邮箱](https://mail.google.com/)                         |
-| > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard)               | [SM.MS图床](https://smms.app/home/)                             | [坚果云](https://www.jianguoyun.com/) | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
-| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)                             | [胡萝卜周](https://www.huluobuzhou.com/)                        | [导航页](https://xydh.fun/puwei)     | [Process On](https://www.processon.com/login "在线思维导图") |
-| [测速网](https://myplugin.speedtest.cn/)              | >[滴答清单](https://dida365.com/webapp/#c/all/calendar/m) | [2fa](https://2fa.live/)                                        |   [AutoDL算力云](https://www.autodl.com/)                                    |                                                              |
+|                                                       |                                                           |                                          |                                                                  |                                                              |
+| ----------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
+| [公式识别](https://simpletex.cn/ai/latex_ocr)         | [Convertio](https://convertio.co/zh/)                     | [igg谷歌访问助手](http://iguge.net/)     | [126邮箱](https://mail.126.com/)                                 | [谷歌邮箱](https://mail.google.com/)                         |
+| > [微信文件传输](https://szfilehelper.weixin.qq.com/) | [探索者](https://www.cryxr.xyz/#/dashboard)               | [SM.MS图床](https://smms.app/home/)      | [坚果云](https://www.jianguoyun.com/)                            | [SakuraFrp内网穿透](https://www.natfrp.com/user/)            |
+| [混合盘官网](https://hunhepan.com/)                   | [猿分天空](https://yftk.fun/)                             | [胡萝卜周](https://www.huluobuzhou.com/) | [导航页](https://xydh.fun/puwei)                                 | [Process On](https://www.processon.com/login "在线思维导图") |
+| [测速网](https://myplugin.speedtest.cn/)              | >[滴答清单](https://dida365.com/webapp/#c/all/calendar/m) | [2fa](https://2fa.live/)                 | [问卷星](https://www.wjx.cn/newwjx/manage/myquestionnaires.aspx) | [腾讯文档](https://docs.qq.com/)                             |
+| [雪球](https://xueqiu.com/)                                                      |       [有知有行](https://youzhiyouxing.cn/)                                                    |       [Cold Turkey](https://getcoldturkey.com/)                                   |                                                                  |                                                              |
 
 
 
-### 论坛百科
+### 图书百科
 
 |                                                     |                                   |                                              |                                   |                                             |
 | --------------------------------------------------- | --------------------------------- | -------------------------------------------- | --------------------------------- | ------------------------------------------- |
-| > [黄大年茶思屋](https://www.chaspark.com/)         | [Medium](https://medium.com/)     | [Hacker News](https://news.ycombinator.com/) | [CSDN](https://www.csdn.net/)   | >[知乎](https://www.zhihu.com/)              |
 | [维基百科](https://en.wikipedia.org/wiki/Main_Page) | [Z-Library](https://zh.z-lib.gs/) | [全国图书馆](http://www.ucdrs.superlib.net/) | [Library Gene](http://libgen.rs/) | [Project Gutenberg](https://gutenberg.org/) |
-| [NGA](https://ngabbs.com/)                                                    |   [ChinaSys开源平台](https://chinasys.org/opensource/index.html)                                |                                              |                                   |                                             |
+|        [ChinaSys开源平台](https://chinasys.org/opensource/index.html)                                              |                                 |                                              |                                   |                                             |
 
 ### GUET
 
@@ -52,31 +61,23 @@ type: nav
 | [桂电学校综合服务大厅](https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex) | [立创商城](https://www.szlcsc.com/) | [学习强国](https://www.xuexi.cn/) | [智慧团建](https://zhtj.youth.cn/zhtj/) | [注销页](http://10.0.1.5/) |
 
 
-### 学习备考
+### 进步
 
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
 | [力扣](https://leetcode.cn/) | [多邻国](https://www.duolingo.com/)  | [批改网](http://www.pigai.org/) | [英语听力精听](https://www.youzack.com/) |  [MOOC](https://www.icourse163.org/) |
 
 
-### 闲逛
+### 躺平
 
-|       |       |       |       |       |
-|-------|-------|-------|-------|-------|
-| [淘宝](https://www.taobao.com/) | [拼多多](https://www.pinduoduo.com/) |
-| [米游社](https://www.miyoushe.com/) | [米哈游云游戏](https://mhyy.mihoyo.com/) |  [三国杀](https://web.sanguosha.com/220/h5_2/index_210000.php) |[俄国破解游戏](https://byruthub.org/)  | [pgame游戏下载](https://www.pgame.vip/) |
-
-### 视频&动漫&音乐
-|                                  |                                                  |                                         |                                     |                                  |
-| -------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------- | -------------------------------- |
+|                                     |                                          |                                                               |                                       |                                         |
+| ----------------------------------- | ---------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | --------------------------------------- |
+| [淘宝](https://www.taobao.com/)     | [拼多多](https://www.pinduoduo.com/)     |                                                               |                                       |                                         |
+| [米游社](https://www.miyoushe.com/) | [米哈游云游戏](https://mhyy.mihoyo.com/) | [三国杀](https://web.sanguosha.com/220/h5_2/index_210000.php) | [俄国破解游戏](https://byruthub.org/) | [pgame游戏下载](https://www.pgame.vip/) |
+| [NGA](https://ngabbs.com/)                                     |                                          |                                                               |                                       |                                         |
 | [抖音](https://www.douyin.com/)  | [咪咕视频](https://www.miguvideo.com/p/channel/) | [芒果tv](https://www.mgtv.com/)         | [YouTube](https://www.youtube.com/) | [腾讯视频](https://v.qq.com/)    |
 | [爱奇艺](https://www.iqiyi.com/) | [小红书](https://www.xiaohongshu.com)            | [Twitter / X](https://twitter.com/home) | [稀饭动漫](https://dick.xfani.com/) | [网易云](https://music.163.com/) |
 | [MP4电影](https://www.sump4.cc/ "MP4电影下载，磁链") |                                                  |                                         |                                     |                                  |
-
-
-### 壁纸
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
 |  [WALLPAPER ABYSS](https://wall.alphacoders.com/?lang=Chinese) |  [pixiv](https://www.pixiv.net/) | [pixivic](https://pixivic.com/?VNK=a7b72159)|
 
 ### 标签 BOOKMARKs
