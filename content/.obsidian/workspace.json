@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nav.md",
-                "mode": "source",
-                "source": false
+                "file": "posts/hugo常用命令.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "nav"
+              "title": "hugo常用命令"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "25534ba29a1ec5d4",
@@ -180,9 +180,9 @@
   },
   "active": "af67f41fa829c4c0",
   "lastOpenFiles": [
+    "nav.md",
     "wiki.md",
     "posts/hugo常用命令.md",
-    "nav.md",
     "posts/LLMs踩坑集.md",
     "posts/markdown基本语法.md",
     "posts/养生.md",
