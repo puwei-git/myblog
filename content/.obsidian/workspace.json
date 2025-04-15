@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "posts/hugo常用命令.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "hugo常用命令"
@@ -180,9 +180,11 @@
   },
   "active": "af67f41fa829c4c0",
   "lastOpenFiles": [
+    "about.md",
+    "未命名.canvas",
     "nav.md",
-    "wiki.md",
     "posts/hugo常用命令.md",
+    "wiki.md",
     "posts/LLMs踩坑集.md",
     "posts/markdown基本语法.md",
     "posts/养生.md",
@@ -190,7 +192,6 @@
     "未命名.canvas.baiduyun.uploading.cfg",
     "posts/每日饮食.md.baiduyun.uploading.cfg",
     "posts/每日饮食.md",
-    "未命名.canvas",
     "posts/生活饮食.md",
     "posts/蔬果可食.md",
     "posts/每日茶饮.md",
@@ -207,7 +208,6 @@
     "posts/每日午餐.md.baiduyun.p.downloading",
     "posts/生活饮食.md.baiduyun.uploading.cfg",
     "posts/Linux基础操作命令（Ubuntu环境）.md",
-    "about.md",
     "posts/conda & pip 常用命令.md",
     "posts/Pycharm专业版安装破解教程.md",
     "snippets/frontmatter.md",
