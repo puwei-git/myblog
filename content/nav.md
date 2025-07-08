@@ -44,7 +44,7 @@ type: nav
 | [混合盘官网](https://hunhepan.com/)                                  | [猿分天空](https://yftk.fun/)                            | [胡萝卜周](https://www.huluobuzhou.com/)  | [导航页](https://xydh.fun/puwei)                                        | [Process On](https://www.processon.com/login "在线思维导图")              |
 | [测速网](https://myplugin.speedtest.cn/)                             | [滴答清单](https://dida365.com/webapp/#c/all/calendar/m) | [2fa](https://2fa.live/)                  | [问卷星](https://www.wjx.cn/newwjx/manage/myquestionnaires.aspx)        | [腾讯文档](https://docs.qq.com/)                                          |
 | [雪球](https://xueqiu.com/)                                          | > [有知有行](https://youzhiyouxing.cn/)                  | [Cold Turkey](https://getcoldturkey.com/) | > [币安BTC](https://www.binance.com/zh-CN/futures/BTCUSDT)              | [功夫量化](https://www.kungfu-trader.com/index.php/2024/05/11/article31/) |
-| [Bitfinex-btc](https://trading.bitfinex.com/t/BTC:UST?type=exchange) | [小番茄图片混淆](https://xfqtphx.netlify.app/)           | [北洋园PT](https://tjupt.org/)            | [google翻译](https://translate.google.com/?sl=en&tl=zh-CN&op=translate) | [国家开发银行](https://sls.cdb.com.cn/#/login)                            | 
+| [ Bitfinex-btc](https://trading.bitfinex.com/t/BTC:UST?type=exchange) | [小番茄图片混淆](https://xfqtphx.netlify.app/)           | [北洋园PT](https://tjupt.org/)            | [google翻译](https://translate.google.com/?sl=en&tl=zh-CN&op=translate) | [国家开发银行](https://sls.cdb.com.cn/#/login)                            | 
 
 
 ### 图书百科
