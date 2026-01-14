@@ -1,11 +1,11 @@
 ---
-title:  hugo常用命令
-aliases: 
+title: hugo常用命令
+aliases:
 tags:
   - 基础工具
-date:  2025-01-23T23:00:01+08:00
-lastmod: 
-draft: true
+date: 2025-01-23T23:00:01+08:00
+lastmod:
+draft: false
 ---
 
 ### hugo安装
