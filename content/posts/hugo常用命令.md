@@ -50,5 +50,6 @@ git add .
 git commit -m "更改信息"
 
 //上传远程代码并合并，上传到source库的main分支
+//采用美国01节点全局速度很快
 git push source main
 ```

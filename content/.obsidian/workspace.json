@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "hugo常用命令"
             }
-          },
-          {
-            "id": "fecd37f6e022769a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
         ]
       }
@@ -194,6 +182,7 @@
   "active": "af67f41fa829c4c0",
   "lastOpenFiles": [
     "nav.md",
+    "posts/hugo常用命令.md",
     "posts/机器翻译预处理.md",
     "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md",
     "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md",
@@ -204,7 +193,6 @@
     "posts/Pycharm专业版安装破解教程.md",
     "posts/markdown基本语法.md",
     "posts/LLMs踩坑集.md",
-    "posts/hugo常用命令.md",
     "wiki.md",
     "about.md",
     "未命名.canvas",
