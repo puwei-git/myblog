@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/hugo常用命令.md",
+                "file": "nav.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hugo常用命令"
+              "title": "nav"
             }
           }
         ]
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +181,10 @@
   },
   "active": "af67f41fa829c4c0",
   "lastOpenFiles": [
+    "posts/hugo常用命令.md",
     "posts/conda & pip 常用命令.md",
     "nav.md",
     "wiki.md",
-    "posts/hugo常用命令.md",
     "posts/机器翻译预处理.md",
     "posts/基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）.md",
     "posts/蓝牙突然无法启动，无法连接（ubuntu 22.04）.md",

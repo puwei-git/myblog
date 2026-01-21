@@ -23,7 +23,7 @@ type: nav
 | [JCR分区](https://ijournal.topeditsci.com/)                                 | [中科院分区](https://advanced.fenqubiao.com/)           | [Research Rabbit](https://researchrabbitapp.com/)                        | [Paper With Code](https://paperswithcode.com/)                                         | [OpenReview](https://openreview.net/)             |
 | [中国专利检索](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch) | [国家知识产权局](http://epub.cnipa.gov.cn/Index)        | [国自然检索](https://kd.nsfc.cn/finalProjectInit)                        | [IEEE模板](https://template-selector.ieee.org/secure/templateSelector/publicationType) |         [科研通](https://www.ablesci.com/)                                          |
 | [黄大年茶思屋](https://www.chaspark.com/)                                   | [Medium](https://medium.com/)                           | [Hacker News](https://news.ycombinator.com/)                             | [CSDN](https://www.csdn.net/)                                                          | [知乎](https://www.zhihu.com/)                    |
-| [科学空间](https://spaces.ac.cn/)                                           | > [博客园](https://www.cnblogs.com/)                    | > [5G学习](https://www.sharetechnote.com/html/5G/Handbook_5G_Index.html) |                                                                                        |                                                   |
+| [科学空间](https://spaces.ac.cn/)                                           | > [博客园](https://www.cnblogs.com/)                    | [5G学习](https://www.sharetechnote.com/html/5G/Handbook_5G_Index.html) |                                                                                        |                                                   |
 
 
 ### AI
