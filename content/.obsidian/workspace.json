@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +180,7 @@
   },
   "active": "af67f41fa829c4c0",
   "lastOpenFiles": [
+    "posts/conda & pip 常用命令.md",
     "nav.md",
     "wiki.md",
     "posts/hugo常用命令.md",
@@ -211,7 +211,6 @@
     "posts/每日午餐.md.baiduyun.p.downloading",
     "posts/生活饮食.md.baiduyun.uploading.cfg",
     "posts/Linux基础操作命令（Ubuntu环境）.md",
-    "posts/conda & pip 常用命令.md",
     "snippets/frontmatter.md",
     "posts/未命名.md",
     "posts/2025-01-23.md",
